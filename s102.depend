@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1736111896 source:z:\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1736147227 source:z:\s102\src\main.cpp
+	<vector>
+	<iostream>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Dictionnaire.h"
+	"Niveau.h"
+
+1736111896 source:z:\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1736148494 source:z:\s102\src\personnage.cpp
+	<iostream>
+	<vector>
+	"Personnage.h"
+	"Image.h"
+	"Niveau.h"
+
+1732820697 source:c:\users\maxen\desktop\fac\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1732829575 source:c:\users\maxen\desktop\fac\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+
+1732820697 source:c:\users\maxen\desktop\fac\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1732829503 source:c:\users\maxen\desktop\fac\s102\src\personnage.cpp
+	<iostream>
+	<vector>
+	"Personnage.h"
+	"Image.h"
+
+1736362394 source:c:\users\maxen\desktop\fac\s102\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1736362394 source:c:\users\maxen\desktop\fac\s102\s102\src\main.cpp
+	<vector>
+	<iostream>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Dictionnaire.h"
+	"Niveau.h"
+
+1736362394 source:c:\users\maxen\desktop\fac\s102\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1736362394 source:c:\users\maxen\desktop\fac\s102\s102\src\personnage.cpp
+	<iostream>
+	<vector>
+	"Personnage.h"
+	"Image.h"
+	"Niveau.h"
+
+1735644048 source:c:\users\maxen\desktop\fac\s102\s102\src\carte.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	"Carte.h"
+	"Moteur.h"
+	"Element.h"
+	"fonctionsOutils.h"
+
+1733174657 source:c:\users\maxen\desktop\fac\s102\s102\src\coffre.cpp
+
+1733329927 source:c:\users\maxen\desktop\fac\s102\s102\src\fichier.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"fichier.h"
+
+1735644048 source:c:\users\maxen\desktop\fac\s102\s102\src\element.cpp
+	<iostream>
+	<string>
+	"Element.h"
+
+1736111895 source:z:\s102\src\carte.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	"Carte.h"
+	"Moteur.h"
+	"Element.h"
+	"fonctionsOutils.h"
+
+1736111895 source:z:\s102\src\element.cpp
+	<iostream>
+	<string>
+	"Element.h"
+
+1733259957 source:z:\s102\src\fichier.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"fichier.h"
+
+1736362394 source:c:\users\maxen\desktop\fac\s102\s102\src\fonctionsoutils.cpp
+	<vector>
+	<string>
+	<iostream>
+	"fonctionsOutils.h"
+
+1736147640 source:z:\s102\src\fonctionsoutils.cpp
+	<vector>
+	<string>
+	<iostream>
+	"fonctionsOutils.h"
+
+1736149351 source:z:\s102\src\dictionnaire.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	"Dictionnaire.h"
+	"Tuile.h"
+
+1736111896 source:z:\s102\src\tuile.cpp
+	<iostream>
+	<string>
+	"Tuile.h"
+
+1736111896 source:z:\s102\src\objet.cpp
+	<iostream>
+	<string>
+	"Objet.h"
+
+1736111896 source:z:\s102\src\niveau.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	"Niveau.h"
+	"Moteur.h"
+	"Objet.h"
+	"fonctionsOutils.h"
+	"Dictionnaire.h"
+	"Tuile.h"
+
+1736362394 source:c:\users\maxen\desktop\fac\s102\s102\src\dictionnaire.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	"Dictionnaire.h"
+	"Tuile.h"
+
+1736365608 source:c:\users\maxen\desktop\fac\s102\s102\src\niveau.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	"Niveau.h"
+	"Moteur.h"
+	"Objet.h"
+	"Dictionnaire.h"
+	"Tuile.h"
+
+1736362394 source:c:\users\maxen\desktop\fac\s102\s102\src\objet.cpp
+	<iostream>
+	<string>
+	"Objet.h"
+
+1736362394 source:c:\users\maxen\desktop\fac\s102\s102\src\tuile.cpp
+	<iostream>
+	<string>
+	"Tuile.h"
+
